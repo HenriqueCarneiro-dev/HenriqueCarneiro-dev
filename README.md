@@ -42,7 +42,4 @@ I'm passionate about accessible technology and interactive experiences
 </div>
 </p>
 <hr style="height: 4px; border: none; background-color: #30363d;" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCarneiro-dev&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCarneiro-dev&layout=compact&theme=dark" height="150"/>
-</div>
+
