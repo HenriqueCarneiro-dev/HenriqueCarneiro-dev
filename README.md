@@ -1,6 +1,6 @@
 <div align="center">
 <br/><br/>
-<h1>Hello World ! <br/> Henrique here 🚀</h1>
+<h1>Hello World ! <br/> I'm Henrique 🚀</h1>
 
 I'm passionate about accessible technology and interactive experiences
 
