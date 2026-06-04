@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="1000px" />
+</div>
+
+<div align="center">
 <br/><br/>
 <h1>Hello World ! <br/> I'm Henrique 🚀</h1>
 
@@ -43,3 +47,18 @@ I'm passionate about accessible technology and interactive experiences
 </p>
 <hr style="height: 4px; border: none; background-color: #30363d;" />
 
+## 🚀 Meus Projetos
+
+###  [Hyrox Planner](link-do-repo)
+> Desenvolvido por diversos grupos da cesar.school o hyrox planner foca em  gerenciar e organizar treinos de HYROX de forma simples e intuitiva.
+
+**Tecnologias:** Python • Git • Terminal  
+**Status:** ✅ Concluído
+
+
+
+### 🎮 [Pomar da memoria - CC/DS](link-do-repo)
+> Nosso projeto busca com ajuda do arduino e demais tecnologias a implementação de jogos com foco na memória para crianças de 9 a 12 anos com deficiência visual, o jogo estimula a memória cognitiva de maneira inclusiva para que garanta um aprendizado e diversão  
+
+**Tecnologias:** C++ • Arduino  
+**Status:** 🚧 Em andamento
