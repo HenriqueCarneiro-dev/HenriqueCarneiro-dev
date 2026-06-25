@@ -61,4 +61,4 @@ I'm passionate about accessible technology and interactive experiences
 > Nosso projeto busca com ajuda do arduino e demais tecnologias a implementação de jogos com foco na memória para crianças de 9 a 12 anos com deficiência visual, o jogo estimula a memória cognitiva de maneira inclusiva para que garanta um aprendizado e diversão  
 
 **Tecnologias:** C++ • Arduino  
-**Status:** 🚧 Em andamento
+**Status:** ✅ Concluído
