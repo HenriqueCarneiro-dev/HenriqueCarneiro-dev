@@ -49,7 +49,7 @@ I'm passionate about accessible technology and interactive experiences
 
 ## 🚀 Meus Projetos
 
-###  [Hyrox Planner](link-do-repo)
+### ​🏃🏻​ [Hyrox Planner](link-do-repo)
 > Desenvolvido por diversos grupos da cesar.school o hyrox planner foca em  gerenciar e organizar treinos de HYROX de forma simples e intuitiva.
 
 **Tecnologias:** Python • Git • Terminal  
