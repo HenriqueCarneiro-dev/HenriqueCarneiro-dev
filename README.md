@@ -49,7 +49,7 @@ I'm passionate about accessible technology and interactive experiences
 
 ## 🚀 Meus Projetos
 
-### ​🏃🏻​ [Hyrox Planner](link-do-repo)
+### ​🏃🏻​ [Hyrox Planner](https://github.com/analu-dev/projeto-grupo-7)
 > Desenvolvido por diversos grupos da cesar.school o hyrox planner foca em  gerenciar e organizar treinos de HYROX de forma simples e intuitiva.
 
 **Tecnologias:** Python • Git • Terminal  
@@ -57,14 +57,14 @@ I'm passionate about accessible technology and interactive experiences
 
 
 
-### 🎮 [Pomar da memoria - CC/DS](link-do-repo)
+### 🎮 [Pomar da memoria - CC/DS](https://github.com/barretu/pomar-da-memoria)
 > Nosso projeto busca com ajuda do arduino e demais tecnologias a implementação de jogos com foco na memória para crianças de 9 a 12 anos com deficiência visual, o jogo estimula a memória cognitiva de maneira inclusiva para que garanta um aprendizado e diversão  
 
 **Tecnologias:** C++ • Arduino  
 **Status:** ✅ Concluído
 
 
-### 💵💸 [Finence Manager - (projeto individual)](link-do-repo)
+### 💵💸 [Finence Manager - (projeto individual)](https://github.com/HenriqueCarneiro-dev/Project-Finance-Manager)
 > Sistema de gerenciamento financeiro pessoal via terminal, desenvolvido em Python. Permite controlar receitas, despesas, orçamentos por categoria e acompanhar a saúde financeira mensal através de relatórios e alertas automáticos. 
 
 **Tecnologias:** Python • Terminal 
