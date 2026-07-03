@@ -64,9 +64,10 @@ I'm passionate about accessible technology and interactive experiences
 **Status:** ✅ Concluído
 
 
-### 💵💸 [Finence Manager - (proketo individual)](link-do-repo)
+### 💵💸 [Finence Manager - (projeto individual)](link-do-repo)
 > Sistema de gerenciamento financeiro pessoal via terminal, desenvolvido em Python. Permite controlar receitas, despesas, orçamentos por categoria e acompanhar a saúde financeira mensal através de relatórios e alertas automáticos. 
 
 **Tecnologias:** Python • Terminal 
+
 **Status:** ✅ Concluído
 
