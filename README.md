@@ -23,7 +23,7 @@ I'm passionate about accessible technology and interactive experiences
 </div>
 
 - 🎓 Computer Science Student at [CESAR School](https://github.com/cesarschool)
-- 🌱 Currently learning `Python`, `JavaScript` and `C++`
+- 🌱 Currently learning `Python`, `C`, `JavaScript`, `HTML`, `CSS`, `C++`  
 - 🚀 Looking for internship opportunities
 - 🤝 Open to collaborating on projects
 - 💬 Ask me about `Python`, `Git` and `Programming Logic`
