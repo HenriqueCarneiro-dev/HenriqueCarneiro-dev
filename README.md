@@ -74,3 +74,11 @@ I'm passionate about accessible technology and interactive experiences
 
 **Status:** ✅ Concluído
 
+
+### 🖥️​​🕹️​ [VolTerra - (projeto PIF CC)](https://github.com/HenriqueCarneiro-dev/VolTerra)
+> VolTerra é um jogo de estratégia em C que simula a gestão de uma usina elétrica nacional, desafiando o jogador a distribuir energia, evitar apagões e manter a rede estável por cinco noites.
+
+**Tecnologias:** Python • Terminal • GCC • Makefile • Linux / WSL
+
+**Status:** 🚧​ Em andamento
+
